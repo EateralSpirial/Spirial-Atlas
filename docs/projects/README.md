@@ -31,13 +31,13 @@
 
 ## Financial and Data Infrastructure
 
-- [CN_STOCK](./project-cn.md)：数据工程项目。
-- [BFT](./project-infra.md)：私有基础设施项目。
+- [CN_STOCK](./project-cn.md)：数据工程项目，当前为保守公开版。
+- [BFT](./project-infra.md)：私有基础设施项目，当前为保守公开版。
 
 ## Theory, Public Rules and Creative Systems
 
 - [modern-numerology](./project-modern-numerology.md)：结构化文档和生成系统。
-- [Human-for-Humans](./project-human.md)：公共文档项目。
+- [Human-for-Humans](./project-human.md)：公共文档项目，当前为保守公开版。
 - [Ways-of-People](./project-ways.md)：原创世界观项目。
 
 ---
