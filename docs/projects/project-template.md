@@ -1,53 +1,53 @@
-# Project Template
+# 项目文档模板
 
-> Category: category
-> Status: status
-> Repository: link or note
-
----
-
-## 1. Project Positioning
-
-Describe what this project is, who it serves, and what problem level it addresses.
+> Category: 类别
+> Status: 当前状态
+> Repository: 链接或说明
 
 ---
 
-## 2. Problem
+## 1. 项目定位
 
-- Problem 1
-- Problem 2
-- Problem 3
+说明这个项目是什么、面向谁、解决什么层级的问题。
 
 ---
 
-## 3. Highlights
+## 2. 解决的问题
 
-- Highlight 1
-- Highlight 2
-- Highlight 3
-
----
-
-## 4. System Structure
-
-Describe the major modules, documents, services, data structures, or workflows.
+- 问题一
+- 问题二
+- 问题三
 
 ---
 
-## 5. Showcase Value
+## 3. 核心亮点
 
-Describe what capability this project demonstrates.
-
----
-
-## 6. Current Status
-
-Describe whether this is a concept, documentation system, prototype, runnable system, data infrastructure, or maintained project.
+- 亮点一
+- 亮点二
+- 亮点三
 
 ---
 
-## 7. Next Steps
+## 4. 系统结构
 
-- Next step 1
-- Next step 2
-- Next step 3
+说明项目由哪些主要模块、文档、服务、数据结构或流程组成。
+
+---
+
+## 5. 展示价值
+
+说明这个项目最适合展示哪种能力。
+
+---
+
+## 6. 当前状态
+
+说明当前是概念设计、文档系统、原型、可运行系统、数据基础设施，还是长期维护项目。
+
+---
+
+## 7. 下一步
+
+- 下一步一
+- 下一步二
+- 下一步三
