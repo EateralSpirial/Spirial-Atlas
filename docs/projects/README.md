@@ -20,24 +20,25 @@
 
 ## AI Agent Infrastructure
 
-- [CCEO](./cceo.md)：本地 Codex 生态治理台。
-- [central-skill-seed](./central-skill-seed.md)：项目级 Agent 上下文维护技能的种子系统。
-- [stick-to-plan-goal-skill](./stick-to-plan-goal-skill.md)：长计划与长目标的状态保持 skill。
+- [CCEO](./project-cceo.md)：本地 Codex 生态治理台。
+- [central-skill-seed](./project-central-skill-seed.md)：项目级上下文维护技能的种子系统。
+- [stick-to-plan-goal-skill](./project-stick-to-plan-goal-skill.md)：长计划与长目标的状态保持 skill。
 
 ## Enterprise System Architecture
 
-- [GESA](./gesa.md)：企业空间、组织权限、Agent Team 与资源治理架构。
-- [SSAI Helper](./ssai-helper.md)：小型企业服务系统。
+- [GESA](./project-gesa.md)：企业空间、组织关系、资源和界面架构。
+- [SSAI Helper](./project-ssai-helper.md)：小型企业服务系统。
 
-## Financial Data Engineering
+## Financial and Data Infrastructure
 
-- [CN_STOCK](./cn-stock.md)：A 股分钟级数据工程基础设施。
-- [BFT](./bft.md)：交易与金融市场基础设施项目。
+- [CN_STOCK](./project-cn.md)：数据工程项目。
+- [BFT](./project-infra.md)：私有基础设施项目。
 
-## Theory and Creative Systems
+## Theory, Public Rules and Creative Systems
 
-- [modern-numerology](./modern-numerology.md)：二十四节气与日内光热段驱动的认知行动结构模型。
-- [Ways-of-People](./ways-of-people.md)：原创世界观、人物、设定与叙事系统。
+- [modern-numerology](./project-modern-numerology.md)：结构化文档和生成系统。
+- [Human-for-Humans](./project-human.md)：公共文档项目。
+- [Ways-of-People](./project-ways.md)：原创世界观项目。
 
 ---
 
